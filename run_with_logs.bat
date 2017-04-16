@@ -1,0 +1,1 @@
+java -jar FrizzFreedom.jar > pantene.log
